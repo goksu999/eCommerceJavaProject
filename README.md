@@ -1,5 +1,5 @@
 # eCommerceJavaProject
-Requirements for registration and login in an e-commerce system with Java codes.
+
 
 Kullanıcılar sisteme bilgilerini girerek üye olacaklardır.
 
